@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  // Primary LinkedIn-inspired blue
+  // Primary LinkedIn blue
   static const Color primary = Color(0xFF0A66C2);
 
   // Background colors
-  static const Color background = Color(0xFFF3F2EF);
+  static const Color background = Color(0xFFF5F7FA);
   static const Color white = Color(0xFFFFFFFF);
 
   // Text colors
